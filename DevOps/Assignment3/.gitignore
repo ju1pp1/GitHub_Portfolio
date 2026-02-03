@@ -1,0 +1,13 @@
+target/
+*.class
+*.log
+*.iml
+.idea/
+.vscode/
+*.jar
+# DevOps gitignore
+node_modules/
+.vscode
+vstorage/
+Assignment1.sln
+obj/

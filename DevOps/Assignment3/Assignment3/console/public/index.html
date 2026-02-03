@@ -1,0 +1,127 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Management Console</title>
+  <style>
+    body { font-family: sans-serif; max-width: 800px; margin: 2rem auto; }
+    h1 { margin-bottom: 1rem; }
+    .hidden { display: none; }
+    .panel { border: 1px solid #ccc; padding: 1rem; border-radius: 4px; margin-bottom: 1rem; }
+    label { display: block; margin-top: 0.5rem; }
+    button { margin: 0.25rem 0.5rem 0.25rem 0; }
+    #error { color: red; }
+    pre { background: #f7f7f7; padding: 0.5rem; border-radius: 4px; max-height: 300px; overflow: auto; }
+  </style>
+</head>
+<body>
+  <h1>Management Console</h1>
+
+  <!-- LOGIN PANEL -->
+  <div id="loginPanel" class="panel">
+    <h2>Login</h2>
+    <p>Please enter your credentials.</p>
+    <div id="error" class="hidden"></div>
+    <label>
+      Username:
+      <input type="text" id="username" autocomplete="off">
+    </label>
+    <label>
+      Password:
+      <input type="password" id="password">
+    </label>
+    <button id="loginBtn">LOGIN</button>
+  </div>
+
+  <!-- CONSOLE PANEL (only visible after "login") -->
+  <div id="consolePanel" class="panel hidden">
+    <div style="margin-bottom: 0.5rem;">
+      <button id="switch">SWITCH VERSION</button>
+      <button id="discard">DISCARD OLD</button>
+      <button id="reset">RESET LOG</button>
+      <button id="logout">LOGOUT</button>
+    </div>
+    <h3>Metrics</h3>
+    <pre id="metrics"></pre>
+    <h3>Log</h3>
+    <pre id="log"></pre>
+  </div>
+
+<script>
+  // --- simple in-page auth (NOT secure) ---
+  const VALID_USER = 'admin';        // keep in sync with your htpasswd username if you want
+  const VALID_PASS = 'changeme';     // This is for the UI only
+
+  let pollTimer = null;
+
+  function showLogin() {
+    document.getElementById('loginPanel').classList.remove('hidden');
+    document.getElementById('consolePanel').classList.add('hidden');
+    document.getElementById('error').classList.add('hidden');
+    stopPolling();
+  }
+
+  function showConsole() {
+    document.getElementById('loginPanel').classList.add('hidden');
+    document.getElementById('consolePanel').classList.remove('hidden');
+    startPolling();
+  }
+
+  document.getElementById('loginBtn').onclick = () => {
+    const u = document.getElementById('username').value.trim();
+    const p = document.getElementById('password').value;
+
+    if (u === VALID_USER && p === VALID_PASS) {
+      showConsole();
+    } else {
+      const err = document.getElementById('error');
+      err.textContent = 'Invalid username or password.';
+      err.classList.remove('hidden');
+    }
+  };
+
+  document.getElementById('logout').onclick = () => {
+    // Just return to initial state: show login form, hide controls, stop polling
+    showLogin();
+    document.getElementById('username').value = '';
+    document.getElementById('password').value = '';
+  };
+
+  // --- existing console actions (unchanged) ---
+  async function call(p, m = "POST") {
+    await fetch(p, { method: m });
+  }
+
+  document.getElementById('switch').onclick = () => call('/api/switch');
+  document.getElementById('discard').onclick = () => call('/api/discard');
+  document.getElementById('reset').onclick   = () => call('/api/reset-log');
+
+  async function pollOnce() {
+    try {
+      const m = await fetch('/api/metrics').then(r => r.json());
+      const l = await fetch('/api/log').then(r => r.text());
+      document.getElementById('metrics').textContent = JSON.stringify(m, null, 2);
+      document.getElementById('log').textContent = l;
+    } catch (e) {
+      document.getElementById('metrics').textContent = 'Error fetching metrics: ' + e;
+    }
+  }
+
+  function startPolling() {
+    if (pollTimer) return;
+    pollOnce();
+    pollTimer = setInterval(pollOnce, 3000);
+  }
+
+  function stopPolling() {
+    if (pollTimer) {
+      clearInterval(pollTimer);
+      pollTimer = null;
+    }
+  }
+
+  // initial state: show login
+  showLogin();
+</script>
+</body>
+</html>

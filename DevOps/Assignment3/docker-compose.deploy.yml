@@ -1,0 +1,62 @@
+services:
+  # ---- v1 stack (blue) ----
+  service1_v1:
+    image: ${REGISTRY}/${PROJECT}/service1:${TAG_V1}  # e.g. project1.0
+    container_name: app_v1_service1
+    depends_on: [service2_v1, storage]
+    environment:
+      - STORAGE_URL=http://storage:8080
+      - SERVICE2_URL=http://service2_v1:9090
+
+  service2_v1:
+    image: ${REGISTRY}/${PROJECT}/service2:${TAG_V1}
+    container_name: app_v1_service2
+    environment:
+      - STORAGE_HOST=storage
+      - STORAGE_PORT=8080
+
+  # ---- v2 stack (green) ----
+  service1_v2:
+    image: ${REGISTRY}/${PROJECT}/service1:${TAG_V2}  # e.g. project1.1
+    container_name: app_v2_service1
+    depends_on: [service2_v2, storage]
+    environment:
+      - STORAGE_URL=http://storage:8080
+      - SERVICE2_URL=http://service2_v2:9090
+
+  service2_v2:
+    image: ${REGISTRY}/${PROJECT}/service2:${TAG_V2}
+    container_name: app_v2_service2
+    environment:
+      - STORAGE_HOST=storage
+      - STORAGE_PORT=8080
+
+  # shared storage for both versions
+  storage:
+    image: ${REGISTRY}/${PROJECT}/storage:${TAG_V1}
+    container_name: project1_storage
+    volumes:
+      - /opt/project1-data:/data
+
+  gateway:
+    image: ${REGISTRY}/${PROJECT}/gateway:${GATEWAY_TAG}
+    container_name: gateway
+    depends_on:
+      - service1_v1
+      - service2_v1
+      - storage
+      - console
+    ports:
+      - "8196:8198"   # HTTPS console
+      - "8197:8199"   # API
+    # certs and htpasswd baked into image as you already do
+
+  console:
+    image: ${REGISTRY}/${PROJECT}/console:${CONSOLE_TAG}
+    container_name: console
+    depends_on:
+      - storage
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      - NODE_ENV=production

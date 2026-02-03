@@ -1,0 +1,14 @@
+C:\Users\IT16\source\repos\kotiteht1\kotiteht1\bin\Debug\kotiteht1.exe.config
+C:\Users\IT16\source\repos\kotiteht1\kotiteht1\bin\Debug\kotiteht1.exe
+C:\Users\IT16\source\repos\kotiteht1\kotiteht1\bin\Debug\kotiteht1.pdb
+C:\Users\IT16\source\repos\kotiteht1\kotiteht1\obj\Debug\kotiteht1.csprojAssemblyReference.cache
+C:\Users\IT16\source\repos\kotiteht1\kotiteht1\obj\Debug\kotiteht1.csproj.CoreCompileInputs.cache
+C:\Users\IT16\source\repos\kotiteht1\kotiteht1\obj\Debug\kotiteht1.exe
+C:\Users\IT16\source\repos\kotiteht1\kotiteht1\obj\Debug\kotiteht1.pdb
+C:\Users\jerem\Desktop\Koodausta\Kotitehtävät\kotiteht1\kotiteht1\kotiteht1\obj\Debug\kotiteht1.csprojResolveAssemblyReference.cache
+C:\Users\jerem\Desktop\Koodausta\Kotitehtävät\kotiteht1\kotiteht1\kotiteht1\obj\Debug\kotiteht1.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Koodausta\Kotitehtävät\kotiteht1\kotiteht1\kotiteht1\obj\Debug\kotiteht1.exe
+C:\Users\jerem\Desktop\Koodausta\Kotitehtävät\kotiteht1\kotiteht1\kotiteht1\obj\Debug\kotiteht1.pdb
+C:\Users\jerem\Desktop\Koodausta\Kotitehtävät\kotiteht1\kotiteht1\kotiteht1\bin\Debug\kotiteht1.exe.config
+C:\Users\jerem\Desktop\Koodausta\Kotitehtävät\kotiteht1\kotiteht1\kotiteht1\bin\Debug\kotiteht1.exe
+C:\Users\jerem\Desktop\Koodausta\Kotitehtävät\kotiteht1\kotiteht1\kotiteht1\bin\Debug\kotiteht1.pdb

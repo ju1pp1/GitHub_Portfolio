@@ -1,0 +1,12 @@
+C:\Users\it16\source\repos\YhteisetLuokat\YhteisetLuokat\bin\Debug\YhteisetLuokat.exe.config
+C:\Users\it16\source\repos\YhteisetLuokat\YhteisetLuokat\bin\Debug\YhteisetLuokat.exe
+C:\Users\it16\source\repos\YhteisetLuokat\YhteisetLuokat\bin\Debug\YhteisetLuokat.pdb
+C:\Users\it16\source\repos\YhteisetLuokat\YhteisetLuokat\bin\Debug\TLLibrary.dll
+C:\Users\it16\source\repos\YhteisetLuokat\YhteisetLuokat\bin\Debug\TLLibrary.pdb
+C:\Users\it16\source\repos\YhteisetLuokat\YhteisetLuokat\obj\Debug\YhteisetLuokat.csprojAssemblyReference.cache
+C:\Users\it16\source\repos\YhteisetLuokat\YhteisetLuokat\obj\Debug\YhteisetLuokat.csproj.CoreCompileInputs.cache
+C:\Users\it16\source\repos\YhteisetLuokat\YhteisetLuokat\obj\Debug\YhteisetLuokat.csproj.CopyComplete
+C:\Users\it16\source\repos\YhteisetLuokat\YhteisetLuokat\obj\Debug\YhteisetLuokat.exe
+C:\Users\it16\source\repos\YhteisetLuokat\YhteisetLuokat\obj\Debug\YhteisetLuokat.pdb
+C:\Users\it16\source\repos\YhteisetLuokat\YhteisetLuokat\bin\Debug\TLLibrary.xml
+C:\Users\it16\source\repos\YhteisetLuokat\YhteisetLuokat\bin\Debug\YhteisetLuokat.xml

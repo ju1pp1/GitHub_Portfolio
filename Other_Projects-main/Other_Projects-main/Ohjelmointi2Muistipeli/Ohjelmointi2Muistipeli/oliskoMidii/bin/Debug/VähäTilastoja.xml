@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTilastot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tilastot>
+    <pelaaja>Testi1</pelaaja>
+    <voitto>0</voitto>
+    <häviö>1</häviö>
+    <tasapelia>0</tasapelia>
+  </Tilastot>
+  <Tilastot>
+    <pelaaja>Testi2</pelaaja>
+    <voitto>1</voitto>
+    <häviö>0</häviö>
+    <tasapelia>0</tasapelia>
+  </Tilastot>
+  <Tilastot>
+    <pelaaja>pelle</pelaaja>
+    <voitto>1</voitto>
+    <häviö>0</häviö>
+    <tasapelia>0</tasapelia>
+  </Tilastot>
+  <Tilastot>
+    <pelaaja>pallo</pelaaja>
+    <voitto>0</voitto>
+    <häviö>1</häviö>
+    <tasapelia>0</tasapelia>
+  </Tilastot>
+</ArrayOfTilastot>

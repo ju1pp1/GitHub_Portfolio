@@ -1,0 +1,7 @@
+C:\Users\jerem\source\repos\statickotitehtava\statickotitehtava\bin\Debug\statickotitehtava.exe.config
+C:\Users\jerem\source\repos\statickotitehtava\statickotitehtava\bin\Debug\statickotitehtava.exe
+C:\Users\jerem\source\repos\statickotitehtava\statickotitehtava\bin\Debug\statickotitehtava.pdb
+C:\Users\jerem\source\repos\statickotitehtava\statickotitehtava\obj\Debug\statickotitehtava.csprojResolveAssemblyReference.cache
+C:\Users\jerem\source\repos\statickotitehtava\statickotitehtava\obj\Debug\statickotitehtava.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\statickotitehtava\statickotitehtava\obj\Debug\statickotitehtava.exe
+C:\Users\jerem\source\repos\statickotitehtava\statickotitehtava\obj\Debug\statickotitehtava.pdb

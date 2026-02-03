@@ -1,0 +1,7 @@
+c:\users\it16\source\repos\Hellooo\Hellooo\bin\Debug\Hellooo.exe.config
+c:\users\it16\source\repos\Hellooo\Hellooo\bin\Debug\Hellooo.exe
+c:\users\it16\source\repos\Hellooo\Hellooo\bin\Debug\Hellooo.pdb
+c:\users\it16\source\repos\Hellooo\Hellooo\obj\Debug\Hellooo.csprojAssemblyReference.cache
+c:\users\it16\source\repos\Hellooo\Hellooo\obj\Debug\Hellooo.csproj.CoreCompileInputs.cache
+c:\users\it16\source\repos\Hellooo\Hellooo\obj\Debug\Hellooo.exe
+c:\users\it16\source\repos\Hellooo\Hellooo\obj\Debug\Hellooo.pdb

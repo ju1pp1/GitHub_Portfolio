@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TLLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:TLLibrary.Class1">
+            <summary>
+            Testiluokka yleiskäyttöön
+            </summary>
+        </member>
+        <member name="P:TLLibrary.Class1.Numero">
+            <summary>
+            Numero, luettaessa yhtä suurempi
+            </summary>
+        </member>
+        <member name="M:TLLibrary.Class1.Tulosta">
+            <summary>
+            Tulostaa
+            </summary>
+            <returns>Tulostettava teksti</returns>
+        </member>
+    </members>
+</doc>

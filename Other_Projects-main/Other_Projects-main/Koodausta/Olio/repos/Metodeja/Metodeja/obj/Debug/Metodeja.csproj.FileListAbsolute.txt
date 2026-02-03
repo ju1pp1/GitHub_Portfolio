@@ -1,0 +1,7 @@
+C:\Users\IT16\source\repos\Metodeja\Metodeja\bin\Debug\Metodeja.exe.config
+C:\Users\IT16\source\repos\Metodeja\Metodeja\bin\Debug\Metodeja.exe
+C:\Users\IT16\source\repos\Metodeja\Metodeja\bin\Debug\Metodeja.pdb
+C:\Users\IT16\source\repos\Metodeja\Metodeja\obj\Debug\Metodeja.csprojAssemblyReference.cache
+C:\Users\IT16\source\repos\Metodeja\Metodeja\obj\Debug\Metodeja.csproj.CoreCompileInputs.cache
+C:\Users\IT16\source\repos\Metodeja\Metodeja\obj\Debug\Metodeja.exe
+C:\Users\IT16\source\repos\Metodeja\Metodeja\obj\Debug\Metodeja.pdb

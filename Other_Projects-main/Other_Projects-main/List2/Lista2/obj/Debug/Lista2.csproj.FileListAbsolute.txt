@@ -1,0 +1,7 @@
+C:\Users\it16\source\repos\Lista2\Lista2\bin\Debug\Lista2.exe.config
+C:\Users\it16\source\repos\Lista2\Lista2\bin\Debug\Lista2.exe
+C:\Users\it16\source\repos\Lista2\Lista2\bin\Debug\Lista2.pdb
+C:\Users\it16\source\repos\Lista2\Lista2\obj\Debug\Lista2.csprojAssemblyReference.cache
+C:\Users\it16\source\repos\Lista2\Lista2\obj\Debug\Lista2.csproj.CoreCompileInputs.cache
+C:\Users\it16\source\repos\Lista2\Lista2\obj\Debug\Lista2.exe
+C:\Users\it16\source\repos\Lista2\Lista2\obj\Debug\Lista2.pdb

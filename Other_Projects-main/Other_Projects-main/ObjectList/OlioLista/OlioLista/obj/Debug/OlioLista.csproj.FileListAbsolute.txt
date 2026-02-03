@@ -1,0 +1,7 @@
+C:\Users\it15\source\repos\OlioLista\OlioLista\bin\Debug\OlioLista.exe.config
+C:\Users\it15\source\repos\OlioLista\OlioLista\bin\Debug\OlioLista.exe
+C:\Users\it15\source\repos\OlioLista\OlioLista\bin\Debug\OlioLista.pdb
+C:\Users\it15\source\repos\OlioLista\OlioLista\obj\Debug\OlioLista.csproj.CoreCompileInputs.cache
+C:\Users\it15\source\repos\OlioLista\OlioLista\obj\Debug\OlioLista.exe
+C:\Users\it15\source\repos\OlioLista\OlioLista\obj\Debug\OlioLista.pdb
+C:\Users\it15\source\repos\OlioLista\OlioLista\obj\Debug\OlioLista.csprojResolveAssemblyReference.cache

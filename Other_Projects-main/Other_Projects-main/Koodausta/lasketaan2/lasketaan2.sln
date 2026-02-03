@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lasketaan2", "lasketaan2\lasketaan2.csproj", "{3FF3CBDA-E454-48C4-AA56-93AAD8EF9CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF3CBDA-E454-48C4-AA56-93AAD8EF9CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF3CBDA-E454-48C4-AA56-93AAD8EF9CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF3CBDA-E454-48C4-AA56-93AAD8EF9CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF3CBDA-E454-48C4-AA56-93AAD8EF9CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AADFE29B-2795-4C38-A8F1-C1934E1341EA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\it16\source\repos\Looppi\Looppi\obj\Debug\Looppi.csprojAssemblyReference.cache
+C:\Users\it16\source\repos\Looppi\Looppi\obj\Debug\Looppi.csproj.CoreCompileInputs.cache
+C:\Users\it16\source\repos\Looppi\Looppi\bin\Debug\Looppi.exe.config
+C:\Users\it16\source\repos\Looppi\Looppi\bin\Debug\Looppi.exe
+C:\Users\it16\source\repos\Looppi\Looppi\bin\Debug\Looppi.pdb
+C:\Users\it16\source\repos\Looppi\Looppi\obj\Debug\Looppi.exe
+C:\Users\it16\source\repos\Looppi\Looppi\obj\Debug\Looppi.pdb
+C:\Users\jerem\Desktop\Koodausta\projektit280818\Looppi\Looppi\bin\Debug\Looppi.exe.config
+C:\Users\jerem\Desktop\Koodausta\projektit280818\Looppi\Looppi\bin\Debug\Looppi.exe
+C:\Users\jerem\Desktop\Koodausta\projektit280818\Looppi\Looppi\bin\Debug\Looppi.pdb
+C:\Users\jerem\Desktop\Koodausta\projektit280818\Looppi\Looppi\obj\Debug\Looppi.csprojResolveAssemblyReference.cache
+C:\Users\jerem\Desktop\Koodausta\projektit280818\Looppi\Looppi\obj\Debug\Looppi.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Koodausta\projektit280818\Looppi\Looppi\obj\Debug\Looppi.exe
+C:\Users\jerem\Desktop\Koodausta\projektit280818\Looppi\Looppi\obj\Debug\Looppi.pdb

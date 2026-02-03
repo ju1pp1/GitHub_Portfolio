@@ -1,0 +1,7 @@
+C:\Users\IT16\source\repos\EsimLuokat\EsimLuokat\bin\Debug\EsimLuokat.exe.config
+C:\Users\IT16\source\repos\EsimLuokat\EsimLuokat\bin\Debug\EsimLuokat.exe
+C:\Users\IT16\source\repos\EsimLuokat\EsimLuokat\bin\Debug\EsimLuokat.pdb
+C:\Users\IT16\source\repos\EsimLuokat\EsimLuokat\obj\Debug\EsimLuokat.csprojAssemblyReference.cache
+C:\Users\IT16\source\repos\EsimLuokat\EsimLuokat\obj\Debug\EsimLuokat.csproj.CoreCompileInputs.cache
+C:\Users\IT16\source\repos\EsimLuokat\EsimLuokat\obj\Debug\EsimLuokat.exe
+C:\Users\IT16\source\repos\EsimLuokat\EsimLuokat\obj\Debug\EsimLuokat.pdb

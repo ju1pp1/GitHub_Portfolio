@@ -1,0 +1,7 @@
+C:\Users\it16\source\repos\Coop1\Coop1\bin\Debug\Coop1.exe.config
+C:\Users\it16\source\repos\Coop1\Coop1\bin\Debug\Coop1.exe
+C:\Users\it16\source\repos\Coop1\Coop1\bin\Debug\Coop1.pdb
+C:\Users\it16\source\repos\Coop1\Coop1\obj\Debug\Coop1.csprojAssemblyReference.cache
+C:\Users\it16\source\repos\Coop1\Coop1\obj\Debug\Coop1.csproj.CoreCompileInputs.cache
+C:\Users\it16\source\repos\Coop1\Coop1\obj\Debug\Coop1.exe
+C:\Users\it16\source\repos\Coop1\Coop1\obj\Debug\Coop1.pdb

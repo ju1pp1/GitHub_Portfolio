@@ -1,0 +1,13 @@
+H:\Opiskelu\OHII\Viikko2\Teht4\Teht4\bin\Debug\Teht4.exe.config
+H:\Opiskelu\OHII\Viikko2\Teht4\Teht4\bin\Debug\Teht4.exe
+H:\Opiskelu\OHII\Viikko2\Teht4\Teht4\bin\Debug\Teht4.pdb
+H:\Opiskelu\OHII\Viikko2\Teht4\Teht4\obj\Debug\Teht4.csprojAssemblyReference.cache
+H:\Opiskelu\OHII\Viikko2\Teht4\Teht4\obj\Debug\Teht4.Form1.resources
+H:\Opiskelu\OHII\Viikko2\Teht4\Teht4\obj\Debug\Teht4.Properties.Resources.resources
+H:\Opiskelu\OHII\Viikko2\Teht4\Teht4\obj\Debug\Teht4.csproj.GenerateResource.cache
+H:\Opiskelu\OHII\Viikko2\Teht4\Teht4\obj\Debug\Teht4.csproj.CoreCompileInputs.cache
+H:\Opiskelu\OHII\Viikko2\Teht4\Teht4\obj\Debug\Teht4.exe
+H:\Opiskelu\OHII\Viikko2\Teht4\Teht4\obj\Debug\Teht4.pdb
+C:\temp\Viikko2Viikkoteht4\Viikko2Viikkoteht4\Teht4\bin\Debug\Teht4.exe.config
+C:\temp\Viikko2Viikkoteht4\Viikko2Viikkoteht4\Teht4\obj\Debug\Teht4.exe
+C:\temp\Viikko2Viikkoteht4\Viikko2Viikkoteht4\Teht4\obj\Debug\Teht4.pdb

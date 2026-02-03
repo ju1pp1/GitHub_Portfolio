@@ -1,0 +1,7 @@
+C:\Users\IT16\source\repos\Kertausta2\Kertausta2\bin\Debug\Kertausta2.exe.config
+C:\Users\IT16\source\repos\Kertausta2\Kertausta2\bin\Debug\Kertausta2.exe
+C:\Users\IT16\source\repos\Kertausta2\Kertausta2\bin\Debug\Kertausta2.pdb
+C:\Users\IT16\source\repos\Kertausta2\Kertausta2\obj\Debug\Kertausta2.csprojAssemblyReference.cache
+C:\Users\IT16\source\repos\Kertausta2\Kertausta2\obj\Debug\Kertausta2.csproj.CoreCompileInputs.cache
+C:\Users\IT16\source\repos\Kertausta2\Kertausta2\obj\Debug\Kertausta2.exe
+C:\Users\IT16\source\repos\Kertausta2\Kertausta2\obj\Debug\Kertausta2.pdb

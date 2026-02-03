@@ -1,7 +1,0 @@
-C:\Users\it16\source\repos\TryIt\TryIt\bin\Debug\TryIt.exe.config
-C:\Users\it16\source\repos\TryIt\TryIt\bin\Debug\TryIt.exe
-C:\Users\it16\source\repos\TryIt\TryIt\bin\Debug\TryIt.pdb
-C:\Users\it16\source\repos\TryIt\TryIt\obj\Debug\TryIt.csprojAssemblyReference.cache
-C:\Users\it16\source\repos\TryIt\TryIt\obj\Debug\TryIt.csproj.CoreCompileInputs.cache
-C:\Users\it16\source\repos\TryIt\TryIt\obj\Debug\TryIt.exe
-C:\Users\it16\source\repos\TryIt\TryIt\obj\Debug\TryIt.pdb

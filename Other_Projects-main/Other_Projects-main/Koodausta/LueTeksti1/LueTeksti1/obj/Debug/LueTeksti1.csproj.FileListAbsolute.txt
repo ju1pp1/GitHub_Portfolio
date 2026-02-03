@@ -1,7 +1,0 @@
-c:\users\it16\source\repos\LueTeksti1\LueTeksti1\bin\Debug\LueTeksti1.exe.config
-c:\users\it16\source\repos\LueTeksti1\LueTeksti1\bin\Debug\LueTeksti1.exe
-c:\users\it16\source\repos\LueTeksti1\LueTeksti1\bin\Debug\LueTeksti1.pdb
-c:\users\it16\source\repos\LueTeksti1\LueTeksti1\obj\Debug\LueTeksti1.csprojAssemblyReference.cache
-c:\users\it16\source\repos\LueTeksti1\LueTeksti1\obj\Debug\LueTeksti1.csproj.CoreCompileInputs.cache
-c:\users\it16\source\repos\LueTeksti1\LueTeksti1\obj\Debug\LueTeksti1.exe
-c:\users\it16\source\repos\LueTeksti1\LueTeksti1\obj\Debug\LueTeksti1.pdb

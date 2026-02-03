@@ -1,7 +1,0 @@
-C:\Users\it15\source\repos\ConsoleInherit\ConsoleInherit\obj\Debug\ConsoleInherit.csprojResolveAssemblyReference.cache
-C:\Users\it15\source\repos\ConsoleInherit\ConsoleInherit\obj\Debug\ConsoleInherit.csproj.CoreCompileInputs.cache
-C:\Users\it15\source\repos\ConsoleInherit\ConsoleInherit\bin\Debug\ConsoleInherit.exe.config
-C:\Users\it15\source\repos\ConsoleInherit\ConsoleInherit\bin\Debug\ConsoleInherit.exe
-C:\Users\it15\source\repos\ConsoleInherit\ConsoleInherit\bin\Debug\ConsoleInherit.pdb
-C:\Users\it15\source\repos\ConsoleInherit\ConsoleInherit\obj\Debug\ConsoleInherit.exe
-C:\Users\it15\source\repos\ConsoleInherit\ConsoleInherit\obj\Debug\ConsoleInherit.pdb

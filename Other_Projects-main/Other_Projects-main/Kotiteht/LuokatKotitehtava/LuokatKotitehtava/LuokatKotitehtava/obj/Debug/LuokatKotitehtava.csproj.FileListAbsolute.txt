@@ -1,7 +1,0 @@
-c:\users\jerem\source\repos\LuokatKotitehtava\LuokatKotitehtava\obj\Debug\LuokatKotitehtava.csprojResolveAssemblyReference.cache
-c:\users\jerem\source\repos\LuokatKotitehtava\LuokatKotitehtava\obj\Debug\LuokatKotitehtava.csproj.CoreCompileInputs.cache
-c:\users\jerem\source\repos\LuokatKotitehtava\LuokatKotitehtava\bin\Debug\LuokatKotitehtava.exe.config
-c:\users\jerem\source\repos\LuokatKotitehtava\LuokatKotitehtava\bin\Debug\LuokatKotitehtava.exe
-c:\users\jerem\source\repos\LuokatKotitehtava\LuokatKotitehtava\bin\Debug\LuokatKotitehtava.pdb
-c:\users\jerem\source\repos\LuokatKotitehtava\LuokatKotitehtava\obj\Debug\LuokatKotitehtava.exe
-c:\users\jerem\source\repos\LuokatKotitehtava\LuokatKotitehtava\obj\Debug\LuokatKotitehtava.pdb

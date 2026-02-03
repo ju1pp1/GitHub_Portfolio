@@ -1,6 +1,0 @@
-c:\users\it16\source\repos\Lasketaan\Lasketaan\bin\Debug\Lasketaan.exe.config
-c:\users\it16\source\repos\Lasketaan\Lasketaan\bin\Debug\Lasketaan.exe
-c:\users\it16\source\repos\Lasketaan\Lasketaan\bin\Debug\Lasketaan.pdb
-c:\users\it16\source\repos\Lasketaan\Lasketaan\obj\Debug\Lasketaan.csproj.CoreCompileInputs.cache
-c:\users\it16\source\repos\Lasketaan\Lasketaan\obj\Debug\Lasketaan.exe
-c:\users\it16\source\repos\Lasketaan\Lasketaan\obj\Debug\Lasketaan.pdb

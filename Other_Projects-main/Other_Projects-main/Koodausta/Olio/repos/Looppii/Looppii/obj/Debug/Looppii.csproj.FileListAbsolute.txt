@@ -1,6 +1,0 @@
-c:\users\it16\source\repos\Looppii\Looppii\obj\Debug\Looppii.csproj.CoreCompileInputs.cache
-c:\users\it16\source\repos\Looppii\Looppii\bin\Debug\Looppii.exe.config
-c:\users\it16\source\repos\Looppii\Looppii\bin\Debug\Looppii.exe
-c:\users\it16\source\repos\Looppii\Looppii\bin\Debug\Looppii.pdb
-c:\users\it16\source\repos\Looppii\Looppii\obj\Debug\Looppii.exe
-c:\users\it16\source\repos\Looppii\Looppii\obj\Debug\Looppii.pdb

@@ -1,7 +1,0 @@
-c:\users\it16\source\repos\coop1\coop1\bin\Debug\coop1.exe.config
-c:\users\it16\source\repos\coop1\coop1\bin\Debug\coop1.exe
-c:\users\it16\source\repos\coop1\coop1\bin\Debug\coop1.pdb
-c:\users\it16\source\repos\coop1\coop1\obj\Debug\coop1.csprojAssemblyReference.cache
-c:\users\it16\source\repos\coop1\coop1\obj\Debug\coop1.csproj.CoreCompileInputs.cache
-c:\users\it16\source\repos\coop1\coop1\obj\Debug\coop1.exe
-c:\users\it16\source\repos\coop1\coop1\obj\Debug\coop1.pdb

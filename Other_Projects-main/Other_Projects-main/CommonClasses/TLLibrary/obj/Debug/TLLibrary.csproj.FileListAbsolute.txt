@@ -1,6 +1,0 @@
-C:\Users\it16\source\repos\YhteisetLuokat\TLLibrary\bin\Debug\TLLibrary.dll
-C:\Users\it16\source\repos\YhteisetLuokat\TLLibrary\bin\Debug\TLLibrary.pdb
-C:\Users\it16\source\repos\YhteisetLuokat\TLLibrary\obj\Debug\TLLibrary.csproj.CoreCompileInputs.cache
-C:\Users\it16\source\repos\YhteisetLuokat\TLLibrary\obj\Debug\TLLibrary.dll
-C:\Users\it16\source\repos\YhteisetLuokat\TLLibrary\obj\Debug\TLLibrary.pdb
-C:\Users\it16\source\repos\YhteisetLuokat\TLLibrary\bin\Debug\TLLibrary.xml

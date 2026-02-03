@@ -1,7 +1,0 @@
-C:\Users\it16\source\repos\Lista1\Lista1\bin\Debug\Lista1.exe.config
-C:\Users\it16\source\repos\Lista1\Lista1\bin\Debug\Lista1.exe
-C:\Users\it16\source\repos\Lista1\Lista1\bin\Debug\Lista1.pdb
-C:\Users\it16\source\repos\Lista1\Lista1\obj\Debug\Lista1.csprojAssemblyReference.cache
-C:\Users\it16\source\repos\Lista1\Lista1\obj\Debug\Lista1.csproj.CoreCompileInputs.cache
-C:\Users\it16\source\repos\Lista1\Lista1\obj\Debug\Lista1.exe
-C:\Users\it16\source\repos\Lista1\Lista1\obj\Debug\Lista1.pdb

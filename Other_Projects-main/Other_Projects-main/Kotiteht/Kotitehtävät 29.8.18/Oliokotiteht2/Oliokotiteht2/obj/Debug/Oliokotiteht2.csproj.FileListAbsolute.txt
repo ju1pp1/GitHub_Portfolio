@@ -1,7 +1,0 @@
-C:\Users\jerem\Desktop\Koodausta\Kotitehtävät\Oliokotiteht2\Oliokotiteht2\bin\Debug\Oliokotiteht2.exe.config
-C:\Users\jerem\Desktop\Koodausta\Kotitehtävät\Oliokotiteht2\Oliokotiteht2\bin\Debug\Oliokotiteht2.exe
-C:\Users\jerem\Desktop\Koodausta\Kotitehtävät\Oliokotiteht2\Oliokotiteht2\bin\Debug\Oliokotiteht2.pdb
-C:\Users\jerem\Desktop\Koodausta\Kotitehtävät\Oliokotiteht2\Oliokotiteht2\obj\Debug\Oliokotiteht2.csprojResolveAssemblyReference.cache
-C:\Users\jerem\Desktop\Koodausta\Kotitehtävät\Oliokotiteht2\Oliokotiteht2\obj\Debug\Oliokotiteht2.csproj.CoreCompileInputs.cache
-C:\Users\jerem\Desktop\Koodausta\Kotitehtävät\Oliokotiteht2\Oliokotiteht2\obj\Debug\Oliokotiteht2.exe
-C:\Users\jerem\Desktop\Koodausta\Kotitehtävät\Oliokotiteht2\Oliokotiteht2\obj\Debug\Oliokotiteht2.pdb

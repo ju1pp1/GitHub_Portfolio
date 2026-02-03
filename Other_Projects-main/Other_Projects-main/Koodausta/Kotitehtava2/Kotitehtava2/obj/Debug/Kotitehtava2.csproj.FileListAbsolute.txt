@@ -1,7 +1,0 @@
-C:\Users\IT16\source\repos\Kotitehtava2\Kotitehtava2\bin\Debug\Kotitehtava2.exe.config
-C:\Users\IT16\source\repos\Kotitehtava2\Kotitehtava2\bin\Debug\Kotitehtava2.exe
-C:\Users\IT16\source\repos\Kotitehtava2\Kotitehtava2\bin\Debug\Kotitehtava2.pdb
-C:\Users\IT16\source\repos\Kotitehtava2\Kotitehtava2\obj\Debug\Kotitehtava2.csprojAssemblyReference.cache
-C:\Users\IT16\source\repos\Kotitehtava2\Kotitehtava2\obj\Debug\Kotitehtava2.csproj.CoreCompileInputs.cache
-C:\Users\IT16\source\repos\Kotitehtava2\Kotitehtava2\obj\Debug\Kotitehtava2.exe
-C:\Users\IT16\source\repos\Kotitehtava2\Kotitehtava2\obj\Debug\Kotitehtava2.pdb

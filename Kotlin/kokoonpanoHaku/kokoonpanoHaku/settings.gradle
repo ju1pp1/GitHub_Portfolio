@@ -1,0 +1,2 @@
+rootProject.name='kokoonpanoHaku'
+include ':app'

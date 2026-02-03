@@ -1,0 +1,10 @@
+c:\users\it16\source\repos\Lomake\Lomake\bin\Debug\Lomake.exe.config
+c:\users\it16\source\repos\Lomake\Lomake\bin\Debug\Lomake.exe
+c:\users\it16\source\repos\Lomake\Lomake\bin\Debug\Lomake.pdb
+c:\users\it16\source\repos\Lomake\Lomake\obj\Debug\Lomake.csprojAssemblyReference.cache
+c:\users\it16\source\repos\Lomake\Lomake\obj\Debug\Lomake.Form1.resources
+c:\users\it16\source\repos\Lomake\Lomake\obj\Debug\Lomake.Properties.Resources.resources
+c:\users\it16\source\repos\Lomake\Lomake\obj\Debug\Lomake.csproj.GenerateResource.cache
+c:\users\it16\source\repos\Lomake\Lomake\obj\Debug\Lomake.csproj.CoreCompileInputs.cache
+c:\users\it16\source\repos\Lomake\Lomake\obj\Debug\Lomake.exe
+c:\users\it16\source\repos\Lomake\Lomake\obj\Debug\Lomake.pdb

@@ -1,0 +1,7 @@
+c:\users\it16\source\repos\Laske1\Laske1\bin\Debug\Laske1.exe.config
+c:\users\it16\source\repos\Laske1\Laske1\bin\Debug\Laske1.exe
+c:\users\it16\source\repos\Laske1\Laske1\bin\Debug\Laske1.pdb
+c:\users\it16\source\repos\Laske1\Laske1\obj\Debug\Laske1.csprojAssemblyReference.cache
+c:\users\it16\source\repos\Laske1\Laske1\obj\Debug\Laske1.csproj.CoreCompileInputs.cache
+c:\users\it16\source\repos\Laske1\Laske1\obj\Debug\Laske1.exe
+c:\users\it16\source\repos\Laske1\Laske1\obj\Debug\Laske1.pdb
